@@ -26,7 +26,7 @@
 |Worthy and Well Qualified|https://worthymasonic.libsyn.com/|-|-|-|-|
 |Follow Me|https://www.youtube.com/followmemasonic|-|[YouTube](https://www.youtube.com/followmemasonic)|-|-|
 |Tria Prima|https://triaprima.co/tria-prima-podcast/|-|-|-|-|
-|What is a Mason?|http://whatisamason.org/|-|-|-|-|
+|What is a Mason?|http://whatisamason.org/|-|[Youtube](https://www.youtube.com/user/OneFreemason)|-|-|
 
 ## Tangential
 |Name|Website|Facebook|Youtube|Twitter|Other|
