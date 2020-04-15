@@ -1,7 +1,7 @@
 # Brother Compiled List of Masonic Podcasts
 
 ## Directly Masonic
-* [Afterlodge](https://www.afterlodge.com/)
+* [AfterLodge](https://www.afterlodge.com/)
 * [3 Distinct Knocks](https://threedistinctknocks.org/)
 * [In the Chair](https://masonicpodcast.com/)
 * [Brought to Light](http://podcast.blueloungesc.com/)
