@@ -31,7 +31,7 @@
 
 ## Tangential
 |Name|Facebook|Youtube|Twitter|Other|
-|---|---|---|---|---|---|
+|---|---|---|---|---|
 |[Thoth-Hermes](https://thothermes.com/)|-|-|-|-|
 |[Talk Gnosis](https://gnosticwisdom.net/category/talkgnosispod/)|-|-|-|-|
 |[Occult of Personality](https://occultofpersonality.net/)|-|-|-|-|
