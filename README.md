@@ -1,4 +1,4 @@
-# Brother Compiles Master List of Masonic Podcasts
+# Brother Compiled List of Masonic Podcasts
 
 ## Directly Masonic
 * [Afterlodge](https://www.afterlodge.com/)
@@ -39,3 +39,7 @@
 * [History of Philosphy Without Any Gaps](https://historyofphilosophy.net/)
 * [Elucidations](https://lucian.uchicago.edu/blogs/elucidations/)
 * [Philosophy Bites](https://philosophybites.com/)
+
+
+
+### If you want to submit changes/updates, please contact the maintainer or submit a pull request.
