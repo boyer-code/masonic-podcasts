@@ -27,6 +27,7 @@
 |[Follow Me](https://www.youtube.com/followmemasonic)|-|[YouTube](https://www.youtube.com/followmemasonic)|-|-|
 |[What is a Mason?](http://whatisamason.org/)|-|[Youtube](https://www.youtube.com/user/OneFreemason)|-|-|
 |[Tria Prima](https://triaprima.co/tria-prima-podcast/)|[Facebook](https://www.facebook.com/triaprimapodcast/)|-|-|[Instagram](https://www.instagram.com/tria_prima_podcast/)|
+=======
 
 ## Tangential
 |Name|Facebook|Youtube|Twitter|Other|
