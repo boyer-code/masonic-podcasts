@@ -22,10 +22,10 @@
 |The Winding Stairs|https://www.stitcher.com/podcast/the-winding-stairs|[Facebook](https://www.facebook.com/TheWindingStairs/)|-|[Twitter](https://twitter.com/windingstairs33)|-|
 |The Laudable Pursuit|https://www.thelaudablepursuit.com/podcast|[Facebook](https://www.facebook.com/hbuck72)|-|[Twitter](https://twitter.com/LaudablePursuit)|[Instagram](https://www.instagram.com/thelaudablepursuit/)|
 |The Life Masonic|https://www.stitcher.com/podcast/life-masonic/the-life-masonic|-|-|-|-|
-|Brother the Masonic Podcast|https://player.fm/series/brother-the-masonic-podcast|-|-|-|-|
-|Worthy and Well Qualified|https://worthymasonic.libsyn.com/|-|-|-|-|
+|Brother the Masonic Podcast|https://player.fm/series/brother-the-masonic-podcast|[Facebook](https://www.facebook.com/brothermasonic/)|-|[Twitter](https://twitter.com/BrotherMasonic)|-|
+|Worthy and Well Qualified|https://worthymasonic.libsyn.com/|[Facebook](https://www.facebook.com/worthymasonic)|-|[Twitter](https://twitter.com/worthymasonic)|-|
 |Follow Me|https://www.youtube.com/followmemasonic|-|[YouTube](https://www.youtube.com/followmemasonic)|-|-|
-|Tria Prima|https://triaprima.co/tria-prima-podcast/|-|-|-|-|
+|Tria Prima|https://triaprima.co/tria-prima-podcast/|[Facebook](https://www.facebook.com/triaprimapodcast/)|-|-|[Instagram](https://www.instagram.com/tria_prima_podcast/)|
 
 ## Tangential
 |Name|Website|Facebook|Youtube|Twitter|Other|
