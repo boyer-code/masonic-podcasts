@@ -3,7 +3,7 @@
 ## Directly Masonic
 |Name|Website|Facebook|Youtube|Twitter|Other|
 |---|---|---|---|---|---|
-|Afterlodge|https://www.afterlodge.com/|-|-|-|-|
+|AfterLodge|https://www.afterlodge.com/|-|-|-|-|
 |3 Distinct Knocks|https://threedistinctknocks.org/|-|-|-|-|
 |In the Chair|https://masonicpodcast.com/|-|-|-|-|
 |Brought to Light|http://podcast.blueloungesc.com/|-|-|-|-|
