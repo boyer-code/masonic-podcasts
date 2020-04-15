@@ -1,4 +1,4 @@
-# A User Compiled Master List of Masonic Podcasts
+# Brother Compiles Master List of Masonic Podcasts
 
 ## Directly Masonic
 * [Afterlodge](https://www.afterlodge.com/)
