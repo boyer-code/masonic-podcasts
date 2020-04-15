@@ -27,6 +27,8 @@
 |[Follow Me](https://www.youtube.com/followmemasonic)|-|[YouTube](https://www.youtube.com/followmemasonic)|-|-|
 |[What is a Mason?](http://whatisamason.org/)|-|[Youtube](https://www.youtube.com/user/OneFreemason)|-|-|
 |[Tria Prima](https://triaprima.co/tria-prima-podcast/)|[Facebook](https://www.facebook.com/triaprimapodcast/)|-|-|[Instagram](https://www.instagram.com/tria_prima_podcast/)|
+|[357 Masonian](http://357productions.libsyn.com/)|-|-|-|-|
+|[Meet, Act, and Part](https://podtail.com/en/podcast/meet-act-and-part/)|[Facebook](https://www.facebook.com/meetactpart/)|-|-|-|
 =======
 
 ## Tangential
@@ -46,7 +48,6 @@
 |[History of Philosphy Without Any Gaps](https://historyofphilosophy.net/)|-|-|-|-|
 |[Elucidations](https://lucian.uchicago.edu/blogs/elucidations/)|-|-|-|-|
 |[Philosophy Bites](https://philosophybites.com/)|-|-|-|-|
-
 
 
 ### If you want to submit changes/updates, please contact the maintainer or submit a pull request.
