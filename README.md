@@ -3,10 +3,10 @@
 ## Directly Masonic
 |Name|Website|Facebook|Youtube|Twitter|Other|
 |---|---|---|---|---|---|
-|AfterLodge|https://www.afterlodge.com/|https://facebook.com/AfterLodge|https://www.youtube.com/channel/UCsprzbGYpePDxb-cJxgzDxw|https://twitter.com/AfterLodge|-|
-|3 Distinct Knocks|https://threedistinctknocks.org/|https://facebook.com/threedistinctknocks|https://youtube.com/threedistinctknocks|-|https://www.instagram.com/threedistinctknocks|
+|AfterLodge|https://www.afterlodge.com/|[Facebook](https://facebook.com/AfterLodge)|[YouTube](https://www.youtube.com/channel/UCsprzbGYpePDxb-cJxgzDxw)|[Twitter](https://twitter.com/AfterLodge)|-|
+|3 Distinct Knocks|https://threedistinctknocks.org/|[Facebook](https://facebook.com/threedistinctknocks)|[YouTube](https://youtube.com/threedistinctknocks)|-|[Instagram](https://www.instagram.com/threedistinctknocks)|
 |In the Chair|https://masonicpodcast.com/|-|-|-|-|
-|Brought to Light|http://podcast.blueloungesc.com/|-|-|-|-|
+|Brought to Light|http://podcast.blueloungesc.com/|[Facebook](https://www.facebook.com/blueloungevic/)]|[YouTube](https://www.youtube.com/channel/UCIEppg6lWM8mmZ2ARpO3LKg)]|[Twitter](http://twitter.com/blueloungevic)]|[Instagram](http://instagram.com/blueloungensw)]|
 |The Masonic Roundtable|http://themasonicroundtable.com/|-|-|-|-|
 |Front Porch Masonic|https://www.facebook.com/frontporchmasonic/|-|-|-|-|
 |Masonic Lite|https://www.masoniclite.com/|-|-|-|-|
@@ -24,7 +24,7 @@
 |The Life Masonic|https://www.stitcher.com/podcast/life-masonic/the-life-masonic|-|-|-|-|
 |Brother the Masonic Podcast|https://player.fm/series/brother-the-masonic-podcast|-|-|-|-|
 |Worthy and Well Qualified|https://worthymasonic.libsyn.com/|-|-|-|-|
-|Follow Me|https://www.youtube.com/followmemasonic|-|https://www.youtube.com/followmemasonic|-|-|
+|Follow Me|https://www.youtube.com/followmemasonic|-|[YouTube](https://www.youtube.com/followmemasonic)|-|-|
 |Tria Prima|https://triaprima.co/tria-prima-podcast/|-|-|-|-|
 
 ## Tangential
