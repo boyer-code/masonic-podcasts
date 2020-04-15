@@ -7,11 +7,11 @@
 |3 Distinct Knocks|https://threedistinctknocks.org/|[Facebook](https://facebook.com/threedistinctknocks)|[YouTube](https://youtube.com/threedistinctknocks)|-|[Instagram](https://www.instagram.com/threedistinctknocks)|
 |In the Chair|https://masonicpodcast.com/|-|-|-|-|
 |Brought to Light|http://podcast.blueloungesc.com/|[Facebook](https://www.facebook.com/blueloungevic/)|[YouTube](https://www.youtube.com/channel/UCIEppg6lWM8mmZ2ARpO3LKg)|[Twitter](http://twitter.com/blueloungevic)|[Instagram](http://instagram.com/blueloungensw)|
-|The Masonic Roundtable|http://themasonicroundtable.com/|-|-|-|-|
-|Front Porch Masonic|https://www.facebook.com/frontporchmasonic/|-|-|-|-|
-|Masonic Lite|https://www.masoniclite.com/|-|-|-|-|
-|Masonic Central|https://www.blogtalkradio.com/masonic-central|-|-|-|-|
-|Tyler's Place|https://scottishrite.org/media-publications/the-tylers-place-podcast/|-|-|-|-|
+|The Masonic Roundtable|http://themasonicroundtable.com/|[Facebook](https://www.facebook.com/TheMasonicRoundtable/)|[YouTube](https://www.youtube.com/user/MasonicRoundtable)|-|[Patreon](https://www.patreon.com/themasonicroundtable)|
+|Front Porch Masonic|frontporchpodcast357.libsyn.com|[Facebook](https://www.facebook.com/frontporchmasonic/)|-|-|-|
+|Masonic Lite|https://www.masoniclite.com/|[Facebook](https://www.facebook.com/masonicpodcast/)|-|[Twitter](https://twitter.com/masoniclite)|-|
+|Masonic Central|https://www.blogtalkradio.com/masonic-central|[Facebook](http://www.facebook.com/home.php#/group.php?gid=28936168770)|-|[Twitter](http://www.twitter.com/masoniccentral)|-|
+|Tyler's Place|https://scottishrite.org/media-publications/the-tylers-place-podcast/|[Facebook](https://www.facebook.com/pages/Scottish-Rite-Freemasonry/10285083467)|[YouTube](https://www.youtube.com/user/ScottishRiteMasons)|[Twitter](https://twitter.com/TheScottishRite)|[Instagram](https://www.instagram.com/scottishritesj/)|
 |X-Oriente|https://www.xoriente.com/|-|-|-|-|
 |Freemasonry in the Bakken|https://www.bakkenmasons.com/|-|-|-|-|
 |Fort Worth 148|https://directory.libsyn.com/shows/view/id/fortworth148|-|-|-|-|
