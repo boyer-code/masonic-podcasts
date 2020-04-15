@@ -16,11 +16,11 @@
 |Freemasonry in the Bakken|https://www.bakkenmasons.com/|[Facebook](https://www.facebook.com/bakkemasons.com)|-|-|-|
 |Fort Worth 148|https://directory.libsyn.com/shows/view/id/fortworth148|[Facebook](https://www.facebook.com/fortworthlodge148/)|-|[Twitter](https://twitter.com/FortWorth148)|-|
 |Whence Came You|https://wcypodcast.com/|[Facebook](https://www.facebook.com/189886497732490)|[YouTube](https://www.youtube.com/user/Wcypodcast)|[Twitter](https://twitter.com/WhenceCameYou)|[Instagram](https://www.instagram.com/wcypodcast/)|
-|The Craftsmen|http://www.thecraftsmenpodcast.com/|-|-|-|-|
-|Masonic Radio Theater|http://mrt.uponthesquare.com/|-|-|-|-|
-|Historical Light|https://www.historicallight.com/|-|-|-|-|
-|The Winding Stairs|https://www.stitcher.com/podcast/the-winding-stairs|-|-|-|-|
-|The Laudable Pursuit|https://www.thelaudablepursuit.com/podcast|-|-|-|-|
+|The Craftsmen|http://www.thecraftsmenpodcast.com/|[Facebook](https://www.facebook.com/TheCraftsmenPodcast/)|-|-|-|
+|Masonic Radio Theater|http://mrt.uponthesquare.com/|[Facebook](https://www.facebook.com/masonicradiotheatre)|-|[Twitter](https://twitter.com/masonicradio)|-|
+|Historical Light|https://www.historicallight.com/|[Facebook](https://www.facebook.com/HistoricalLight/)|[YouTube](https://www.youtube.com/historicallight)|[Twitter](https://twitter.com/historicallight)|[Instagram](https://www.instagram.com/historicallight/)|
+|The Winding Stairs|https://www.stitcher.com/podcast/the-winding-stairs|[Facebook](https://www.facebook.com/TheWindingStairs/)|-|[Twitter](https://twitter.com/windingstairs33)|-|
+|The Laudable Pursuit|https://www.thelaudablepursuit.com/podcast|[Facebook](https://www.facebook.com/hbuck72)|-|[Twitter](https://twitter.com/LaudablePursuit)|[Instagram](https://www.instagram.com/thelaudablepursuit/)|
 |The Life Masonic|https://www.stitcher.com/podcast/life-masonic/the-life-masonic|-|-|-|-|
 |Brother the Masonic Podcast|https://player.fm/series/brother-the-masonic-podcast|-|-|-|-|
 |Worthy and Well Qualified|https://worthymasonic.libsyn.com/|-|-|-|-|
