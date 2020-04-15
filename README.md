@@ -1,5 +1,6 @@
 # A User Compiled Master List of Masonic Podcasts
 
+## Directly Masonic
     Afterlodge
     3 Distinct Knocks
     In the Chair
@@ -24,5 +25,6 @@
     The Laudable Pursuit
     The Working Tools Masonic Magazine
     The Life Masonic
-    Thoth-Hermes (Tangential)
 
+## Tangential
+Thoth-Hermes (Tangential)
