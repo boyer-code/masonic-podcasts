@@ -24,6 +24,7 @@
 |The Life Masonic|https://www.stitcher.com/podcast/life-masonic/the-life-masonic|-|-|-|-|
 |Brother the Masonic Podcast|https://player.fm/series/brother-the-masonic-podcast|-|-|-|-|
 |Worthy and Well Qualified|https://worthymasonic.libsyn.com/|-|-|-|-|
+|Follow Me|https://www.youtube.com/followmemasonic|-|https://www.youtube.com/followmemasonic|-|-|
 
 ## Tangential
 |Name|Website|Facebook|Youtube|Twitter|Other|
