@@ -34,20 +34,20 @@
 ## Tangential
 |Name|Facebook|Youtube|Twitter|Other|
 |---|---|---|---|---|
-|[Thoth-Hermes](https://thothermes.com/)|-|-|-|-|
+|[Thoth-Hermes](https://thothermes.com/)|[Facebook](https://www.facebook.com/thpodcast)|-|[Twitter](https://twitter.com/thothermesat)|-|
 |[Talk Gnosis](https://gnosticwisdom.net/category/talkgnosispod/)|-|-|-|-|
-|[Occult of Personality](https://occultofpersonality.net/)|-|-|-|-|
-|[The Hermetic Hour](https://www.blogtalkradio.com/the-hermetic-hour)|-|-|-|-|
-|[The Art of Manliness](https://www.artofmanliness.com/podcast/)|-|-|-|-|
+|[Occult of Personality](https://occultofpersonality.net/)|[Facebook](https://www.facebook.com/OccultofPersonality)|[YouTube](https://www.youtube.com/channel/UCeKBc9SEZJbz0A9n3ytbSXg)|[Twitter](https://twitter.com/occultofprsnlty)|-|
+|[The Hermetic Hour](https://www.blogtalkradio.com/the-hermetic-hour)|[Facebook](https://www.facebook.com/The-Hermetic-Hour-110476848974214/)|-|[Twitter](https://twitter.com/TheHermeticHour)|-|
+|[The Art of Manliness](https://www.artofmanliness.com/podcast/)|[Facebook](https://www.facebook.com/artofmanliness)|[YouTube](https://www.youtube.com/user/artofmanliness)|[Twitter](https://twitter.com/artofmanliness)|[Instagram](https://www.instagram.com/artofmanliness/)|
 |[My Alchemical Bromance](https://myalchemicalbromance.com/)|-|-|-|-|
-|[Jordan Peterson Podcast](https://www.jordanbpeterson.com/podcast/)|-|-|-|-|
-|[The Symbolic World](https://thesymbolicworld.com/)|-|-|-|-|
+|[Jordan Peterson Podcast](https://www.jordanbpeterson.com/podcast/)|[Facebook](https://www.facebook.com/drjordanpeterson/)|[YouTube](https://www.youtube.com/c/jordanpetersonvideos)|[Twitter](https://twitter.com/jordanbpeterson)|-|
+|[The Symbolic World](https://thesymbolicworld.com/)|[Facebook](https://www.facebook.com/jonathanpageau)|[YouTube](https://www.youtube.com/user/pageaujonathan/)|[Twitter](https://twitter.com/pageaujonathan)|-|
 |[The Secret History of Western Esotericism](https://shwep.net/podcast/)|-|-|-|-|
-|[Philosophize This!](https://philosophizethis.org/)|-|-|-|-|
+|[Philosophize This!](https://philosophizethis.org/)|[Facebook](https://www.facebook.com/Philosophizethisshow/)|[YouTube](https://www.youtube.com/channel/UCjnpuIGovFFUBLG5BeHzTag)|[Twitter](https://twitter.com/iamstephenwest)|-|
 |[History of Alchemy](https://www.podcastnik.com/history-of-alchemy-podcast)|-|-|-|-|
-|[History of Philosphy Without Any Gaps](https://historyofphilosophy.net/)|-|-|-|-|
+|[History of Philosphy Without Any Gaps](https://historyofphilosophy.net/)|[Facebook](https://www.facebook.com/pages/The-History-Of-Philosophy-With-No-Gaps/)|-|[Twitter](https://twitter.com/HistPhilosophy)|-|
 |[Elucidations](https://lucian.uchicago.edu/blogs/elucidations/)|-|-|-|-|
-|[Philosophy Bites](https://philosophybites.com/)|-|-|-|-|
+|[Philosophy Bites](https://philosophybites.com/)|-|-|[Twitter](https://twitter.com/philosophybites)|-|
 
 
 ### If you want to submit changes/updates, please contact the maintainer or submit a pull request.
