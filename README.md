@@ -3,8 +3,8 @@
 ## Directly Masonic
 |Name|Website|Facebook|Youtube|Twitter|Other|
 |---|---|---|---|---|---|
-|AfterLodge|https://www.afterlodge.com/|-|-|-|-|
-|3 Distinct Knocks|https://threedistinctknocks.org/|-|-|-|-|
+|AfterLodge|https://www.afterlodge.com/|https://facebook.com/AfterLodge|https://www.youtube.com/channel/UCsprzbGYpePDxb-cJxgzDxw|https://twitter.com/AfterLodge|-|
+|3 Distinct Knocks|https://threedistinctknocks.org/|https://facebook.com/threedistinctknocks|https://youtube.com/threedistinctknocks|-|https://www.instagram.com/threedistinctknocks|
 |In the Chair|https://masonicpodcast.com/|-|-|-|-|
 |Brought to Light|http://podcast.blueloungesc.com/|-|-|-|-|
 |The Masonic Roundtable|http://themasonicroundtable.com/|-|-|-|-|
