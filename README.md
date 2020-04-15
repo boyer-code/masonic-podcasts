@@ -25,6 +25,7 @@
 |Brother the Masonic Podcast|https://player.fm/series/brother-the-masonic-podcast|-|-|-|-|
 |Worthy and Well Qualified|https://worthymasonic.libsyn.com/|-|-|-|-|
 |Follow Me|https://www.youtube.com/followmemasonic|-|https://www.youtube.com/followmemasonic|-|-|
+|Tria Prima|https://triaprima.co/tria-prima-podcast/|-|-|-|-|
 
 ## Tangential
 |Name|Website|Facebook|Youtube|Twitter|Other|
@@ -35,7 +36,6 @@
 |The Hermetic Hour|https://www.blogtalkradio.com/the-hermetic-hour|-|-|-|-|
 |The Art of Manliness|https://www.artofmanliness.com/podcast/|-|-|-|-|
 |My Alchemical Bromance|https://myalchemicalbromance.com/|-|-|-|-|
-|Tria Prima|https://triaprima.co/tria-prima-podcast/|-|-|-|-|
 |Jordan Peterson Podcast|https://www.jordanbpeterson.com/podcast/|-|-|-|-|
 |The Symbolic World|https://thesymbolicworld.com/|-|-|-|-|
 |The Secret History of Western Esotericism|https://shwep.net/podcast/|-|-|-|-|
