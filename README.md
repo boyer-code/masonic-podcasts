@@ -29,7 +29,6 @@
 |[Tria Prima](https://triaprima.co/tria-prima-podcast/)|[Facebook](https://www.facebook.com/triaprimapodcast/)|-|-|[Instagram](https://www.instagram.com/tria_prima_podcast/)|
 |[357 Masonian](http://357productions.libsyn.com/)|-|-|-|-|
 |[Meet, Act, and Part](https://podtail.com/en/podcast/meet-act-and-part/)|[Facebook](https://www.facebook.com/meetactpart/)|-|-|-|
-=======
 
 ## Tangential
 |Name|Facebook|Youtube|Twitter|Other|
