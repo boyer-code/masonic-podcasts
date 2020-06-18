@@ -35,7 +35,7 @@
 |[Scottish Rite Journal](https://www.spreaker.com/show/scottish-rite-journal-podcast)|-|-|-|-|
 |[Masonic Wages](https://masonicwages.com/podcast-357/)|[Facebook](https://www.facebook.com/groups/masonicwages/)|[YouTube](https://www.youtube.com/playlist?list=PLPKID4PyUXKlurlyxLs67jzBhLS-PhJlP)|-|-|
 |[Masonic Life 360](https://anchor.fm/masoniclife360)|-|-|-|-|
-|Together We Can Do This - Awaiting details|-|-|-|-  |
+|[The Masonic Resurgence](https://masonicresurgence.buzzsprout.com/)|-|-|-|-  |
 
 
 ## Tangential
