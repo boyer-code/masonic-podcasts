@@ -29,6 +29,14 @@
 |[Tria Prima](https://triaprima.co/tria-prima-podcast/)|[Facebook](https://www.facebook.com/triaprimapodcast/)|-|-|[Instagram](https://www.instagram.com/tria_prima_podcast/)|
 |[357 Masonian](http://357productions.libsyn.com/)|-|-|-|-|
 |[Meet, Act, and Part](https://podtail.com/en/podcast/meet-act-and-part/)|[Facebook](https://www.facebook.com/meetactpart/)|-|-|-|
+|[Austin Light](https://www.facebook.com/groups/austinfreemasons/)|[Facebook](https://www.facebook.com/groups/austinfreemasons/)|-|-|-|
+|[The Masonic Readers](https://masonicreaders.com/)|-|-|-|-|
+|[Rocky Mountain Mason](https://rockymountainmason.buzzsprout.com/)|[Facebook](http://www.facebook.com/rockymountainmason)|-|[Twitter](http://www.twitter.com/rockymtnmason)]|-|
+|[Scottish Rite Journal](https://www.spreaker.com/show/scottish-rite-journal-podcast)|-|-|-|-|
+|[Masonic Wages](https://masonicwages.com/podcast-357/)|[Facebook](https://www.facebook.com/groups/masonicwages/)|[YouTube](https://www.youtube.com/playlist?list=PLPKID4PyUXKlurlyxLs67jzBhLS-PhJlP)|-|-|
+|[Masonic Life 360](https://anchor.fm/masoniclife360)|-|-|-|-|
+|Together We Can Do This - Awaiting details|-|-|-|-|
+
 
 ## Tangential
 |Name|Facebook|Youtube|Twitter|Other|
