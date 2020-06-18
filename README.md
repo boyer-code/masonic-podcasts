@@ -36,6 +36,7 @@
 |[Masonic Wages](https://masonicwages.com/podcast-357/)|[Facebook](https://www.facebook.com/groups/masonicwages/)|[YouTube](https://www.youtube.com/playlist?list=PLPKID4PyUXKlurlyxLs67jzBhLS-PhJlP)|-|-|
 |[Masonic Life 360](https://anchor.fm/masoniclife360)|-|-|-|-|
 |[The Masonic Resurgence](https://masonicresurgence.buzzsprout.com/)|-|-|-|-  |
+|[Masonic Improvement](https://www.youtube.com/channel/UCnKjPlQhBbSNSDwK2ljmKRw)|-|[YouTube](https://www.youtube.com/channel/UCnKjPlQhBbSNSDwK2ljmKRw)|-|-  |
 
 
 ## Tangential
