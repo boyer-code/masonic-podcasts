@@ -4,7 +4,7 @@
 |Name|Facebook|Youtube|Twitter|Other|
 |---|---|---|---|---|
 |[AfterLodge](https://www.afterlodge.com/)|[Facebook](https://facebook.com/AfterLodge)|[YouTube](https://www.youtube.com/channel/UCsprzbGYpePDxb-cJxgzDxw)|[Twitter](https://twitter.com/AfterLodge)|-|
-|[3 Distinct Knocks](https://threedistinctknocks.org/)|[Facebook](https://facebook.com/threedistinctknocks)|[YouTube](https://youtube.com/threedistinctknocks)|-|[Instagram](https://www.instagram.com/threedistinctknocks)|
+|[Three Distinct Knocks](https://threedistinctknocks.org/)|[Facebook](https://facebook.com/threedistinctknocks)|[YouTube](https://youtube.com/threedistinctknocks)|-|[Instagram](https://www.instagram.com/threedistinctknocks)|
 |[In the Chair](https://masonicpodcast.com/)|-|-|-|-|
 |[Brought to Light](http://podcast.blueloungesc.com/)|[Facebook](https://www.facebook.com/blueloungevic/)|[YouTube](https://www.youtube.com/channel/UCIEppg6lWM8mmZ2ARpO3LKg)|[Twitter](http://twitter.com/blueloungevic)|[Instagram](http://instagram.com/blueloungensw)|
 |[The Masonic Roundtable](http://themasonicroundtable.com/)|[Facebook](https://www.facebook.com/TheMasonicRoundtable/)|[YouTube](https://www.youtube.com/user/MasonicRoundtable)|-|[Patreon](https://www.patreon.com/themasonicroundtable)|
