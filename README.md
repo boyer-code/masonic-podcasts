@@ -24,7 +24,7 @@
 |[Meet, Act, and Part](https://podtail.com/en/podcast/meet-act-and-part/)|[Facebook](https://www.facebook.com/meetactpart/)|-|-|-|
 |[Rocky Mountain Mason](https://rockymountainmason.buzzsprout.com/)|[Facebook](http://www.facebook.com/rockymountainmason)|-|[Twitter](http://www.twitter.com/rockymtnmason)|-|
 |[Scottish Rite Journal](https://www.spreaker.com/show/scottish-rite-journal-podcast)|-|-|-|-|
-|[Solomon's Staircase](https://anchor.fm/sslodge357/)|-|-|-|-|
+|[Solomon's Staircase](https://anchor.fm/sslodge357/)|[Facebook](https://www.facebook.com/SSLodge357/)|-|[Twitter](https://twitter.com/SSLodge357)|[Instagram](https://www.instagram.com/sslodge357/)|
 |[The Craftsmen](http://www.thecraftsmenpodcast.com/)|[Facebook](https://www.facebook.com/TheCraftsmenPodcast/)|-|-|-|
 |[The Laudable Pursuit](https://www.thelaudablepursuit.com/podcast)|[Facebook](https://www.facebook.com/hbuck72)|-|[Twitter](https://twitter.com/LaudablePursuit)|[Instagram](https://www.instagram.com/thelaudablepursuit/)|
 |[The Life Masonic](https://www.stitcher.com/podcast/life-masonic/the-life-masonic)|-|-|-|-|
