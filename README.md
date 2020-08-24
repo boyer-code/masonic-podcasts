@@ -35,6 +35,7 @@
 |[Three Distinct Knocks](https://threedistinctknocks.org/)|[Facebook](https://facebook.com/threedistinctknocks)|[YouTube](https://youtube.com/threedistinctknocks?sub_confirmation=1)|-|[Instagram](https://www.instagram.com/threedistinctknocks)|
 |[Tria Prima](https://triaprima.co/tria-prima-podcast/)|[Facebook](https://www.facebook.com/triaprimapodcast/)|-|-|[Instagram](https://www.instagram.com/tria_prima_podcast/)|
 |[Tyler's Place](https://scottishrite.org/media-publications/the-tylers-place-podcast/)|[Facebook](https://www.facebook.com/pages/Scottish-Rite-Freemasonry/10285083467)|[YouTube](https://www.youtube.com/user/ScottishRiteMasons?sub_confirmation=1)|[Twitter](https://twitter.com/TheScottishRite)|[Instagram](https://www.instagram.com/scottishritesj/)|
+|[We Do](https://wedomason.com/)|[Facebook](https://www.facebook.com/wedomason)|[Youtube](https://www.youtube.com/channel/UCTh6WePGJTdqh178TeKxT5Q)|[Twitter](https://twitter.com/wedomason)|[Instagram](https://www.instagram.com/wedomason)|
 |[What is a Mason?](http://whatisamason.org/)|-|[Youtube](https://www.youtube.com/user/OneFreemason?sub_confirmation=1)|-|-|
 |[Whence Came You](https://wcypodcast.com/)|[Facebook](https://www.facebook.com/189886497732490)|[YouTube](https://www.youtube.com/user/Wcypodcast?sub_confirmation=1)|[Twitter](https://twitter.com/WhenceCameYou)|[Instagram](https://www.instagram.com/wcypodcast/)|
 |[Worthy and Well Qualified](https://worthymasonic.libsyn.com/)|[Facebook](https://www.facebook.com/worthymasonic)|-|[Twitter](https://twitter.com/worthymasonic)|-|
