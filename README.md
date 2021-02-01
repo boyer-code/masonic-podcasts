@@ -22,7 +22,8 @@
 |[Masonic Radio Theater](http://mrt.uponthesquare.com/)|[Facebook](https://www.facebook.com/masonicradiotheatre)|-|[Twitter](https://twitter.com/masonicradio)|-|
 |[Masonic Wages](https://masonicwages.com/podcast-357/)|[Facebook](https://www.facebook.com/groups/masonicwages/)|[YouTube](https://www.youtube.com/playlist?list=PLPKID4PyUXKlurlyxLs67jzBhLS-PhJlP?sub_confirmation=1)|-|-|
 |[Meet, Act, and Part](https://podtail.com/en/podcast/meet-act-and-part/)|[Facebook](https://www.facebook.com/meetactpart/)|-|-|-|
-|[Rocky Mountain Mason](https://rockymountainmason.buzzsprout.com/)|[Facebook](http://www.facebook.com/rockymountainmason)|-|[Twitter](http://www.twitter.com/rockymtnmason)|-|
+|[Ridecast](https://anchor.fm/yakka-ridings5)|[Facebook](https://www.facebook.com/WidowsSons.Yorkshire/)|-|[Twitter](http://www.twitter.com/rockymtnmason)|-|
+|[Rocky Mountain Mason](https://rockymountainmason.buzzsprout.com/)|[Facebook](http://www.facebook.com/rockymountainmason)|-||[Instagram](https://instagram.com/widowssons_ridingschapter?igshid=11f6j5s8bvlk4)|
 |[Scottish Rite Journal](https://www.spreaker.com/show/scottish-rite-journal-podcast)|-|-|-|-|
 |[Solomon's Staircase](https://anchor.fm/sslodge357/)|[Facebook](https://www.facebook.com/SSLodge357/)|-|[Twitter](https://twitter.com/SSLodge357)|[Instagram](https://www.instagram.com/sslodge357/)|
 |[The Craftsmen](http://www.thecraftsmenpodcast.com/)|[Facebook](https://www.facebook.com/TheCraftsmenPodcast/)|-|-|-|
