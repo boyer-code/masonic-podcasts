@@ -24,6 +24,7 @@
 |[Meet, Act, and Part](https://podtail.com/en/podcast/meet-act-and-part/)|[Facebook](https://www.facebook.com/meetactpart/)|-|-|-|
 |[Ridecast](https://anchor.fm/yakka-ridings5)|[Facebook](https://www.facebook.com/WidowsSons.Yorkshire/)|-|[Twitter](http://www.twitter.com/rockymtnmason)|-|
 |[Rocky Mountain Mason](https://rockymountainmason.buzzsprout.com/)|[Facebook](http://www.facebook.com/rockymountainmason)|-||[Instagram](https://instagram.com/widowssons_ridingschapter?igshid=11f6j5s8bvlk4)|
+|[Point of Reflection](https://masoniceducationnetwork.podbean.com/)|[Facebook](https://www.facebook.com/groups/MasonicEduNet/)|-|-|[Alt Website](http://www.masoniceducation.network/)|
 |[Scottish Rite Journal](https://www.spreaker.com/show/scottish-rite-journal-podcast)|-|-|-|-|
 |[Solomon's Staircase](https://anchor.fm/sslodge357/)|[Facebook](https://www.facebook.com/SSLodge357/)|-|[Twitter](https://twitter.com/SSLodge357)|[Instagram](https://www.instagram.com/sslodge357/)|
 |[The Craftsmen](http://www.thecraftsmenpodcast.com/)|[Facebook](https://www.facebook.com/TheCraftsmenPodcast/)|-|-|-|
