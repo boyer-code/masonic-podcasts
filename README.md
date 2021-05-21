@@ -27,7 +27,7 @@
 |[Point of Reflection](https://masoniceducationnetwork.podbean.com/)|[Facebook](https://www.facebook.com/groups/MasonicEduNet/)|-|-|[Alt Website](http://www.masoniceducation.network/)|
 |[Scottish Rite Journal](https://www.spreaker.com/show/scottish-rite-journal-podcast)|-|-|-|-|
 |[Solomon's Staircase](https://anchor.fm/sslodge357/)|[Facebook](https://www.facebook.com/SSLodge357/)|-|[Twitter](https://twitter.com/SSLodge357)|[Instagram](https://www.instagram.com/sslodge357/)|
-|[The Craftsmen](http://www.thecraftsmenpodcast.com/)|[Facebook](https://www.facebook.com/TheCraftsmenPodcast/)|-|-|-|
+|[The Craftsmen Online](https://craftsmenonline.com/the-craftsmen-online-podcast/)|[Facebook](https://www.facebook.com/CraftsmenOnline/)|-|-|[Instagram](https://www.instagram.com/craftsmenonline/)|
 |[The Laudable Pursuit](https://www.thelaudablepursuit.com/podcast)|[Facebook](https://www.facebook.com/hbuck72)|-|[Twitter](https://twitter.com/LaudablePursuit)|[Instagram](https://www.instagram.com/thelaudablepursuit/)|
 |[The Life Masonic](https://www.stitcher.com/podcast/life-masonic/the-life-masonic)|-|-|-|-|
 |[The Masonic Readers](https://masonicreaders.com/)|-|-|-|-|
